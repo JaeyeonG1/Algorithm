@@ -11,3 +11,6 @@ fun main() {
     s.solution()
 }
 
+//fun main() = with(System.`in`.bufferedReader()) {
+//
+//}
